@@ -4,7 +4,7 @@
 **AI Systems & Distributed Platforms | Mobile & Backend**
 
 Dubai, UAE · Brazilian 🇧🇷  
-19+ years building production systems across mobile, AI, and cloud — from startups to enterprises like Samsung, IBM, and Emirates.
+19+ years building production systems across mobile, AI, and cloud — from startups to enterprises like Samsung, IBM, Emirates, and Fujitsu.
 
 ---
 
@@ -15,6 +15,7 @@ Dubai, UAE · Brazilian 🇧🇷
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
@@ -65,6 +66,43 @@ AI-driven automation for service businesses — messaging platform integration (
 
 ---
 
+## 📂 Past Projects
+
+**Biometric Identity & Payments Platform**  
+Cross-platform biometric identity verification system using palm vein authentication, built in close partnership with Fujitsu — co-developing SDK features, debugging, and reviewing documentation. Products spanned kiosk self-service enrollment, bank-grade transaction verification, and high-security payment authentication. Flutter with clean architecture, native platform channels for biometric hardware, Arabic/English i18n, and Azure CI/CD pipelines. Deployed across hospitality, banking, and enterprise security in the UAE.
+
+**Real Estate Property Management App** — *Monstarlab*  
+Solution architecture and delivery for a property management platform serving real estate owners in the UAE. iOS and Android.
+
+**Government-Backed Digital Platform** — *Monstarlab*  
+Solution architecture for a government-backed digital services platform in the UAE. Led the team from initial concept through delivery.
+
+**Airline Loyalty Program & Airport Navigation** — *TribalScale / Emirates*  
+Rebuilt the Skywards loyalty section of the Emirates mobile app. Built indoor airport navigation (WayFinder), rich notifications for flight status, and led the Kotlin migration. Led the Android Experience Team (9 engineers).
+
+**Enterprise Conference App** — *IBM*  
+Cross-platform conference and event app for IBM corporate events — speakers, presentations, live Q&A with moderator controls. iOS and Android.
+
+**Video Streaming Platform** — *Samsung*  
+Consumer video streaming service (Moony) with content provider integrations, built for smartphones and tablets.
+
+**Kids Mode** — *Samsung*  
+Child-safe device environment with parental controls, curated app selection, and a custom home screen.
+
+**Cloud School LMS** — *Samsung*  
+Learning management system with AWS infrastructure — services and server architecture definition.
+
+**Vehicle Expense Manager** — *Paiva.gg Consulting*  
+Android integration consulting for Drivvo — a vehicle expense tracking app covering fuel, maintenance, and reporting.
+
+**Citizen Journalism App** — *i2 Mobile Solutions*  
+Mobile platform (ComuniQ) for citizen reporting to the Jornal do Commercio media network — photos, video, audio, and text submissions across TV, radio, print, and digital outlets in Pernambuco, Brazil.
+
+**Cannes Lions Award Campaigns** — *Ogilvy Interactive*  
+Web development for award-winning advertising campaigns: Coca-Cola Happiness Refill Machine, Kraft Foods "Prepare Drink Done", and JAC Motors "The 3239km Experience".
+
+---
+
 ## 🔬 Research & Exploration
 
 - **AI agent memory** — hierarchical context management (MemGPT), token-cost optimization (Mem0), vector embedding strategies, dual-database architectures (SQLite + ChromaDB)
@@ -82,6 +120,7 @@ AI-driven automation for service businesses — messaging platform integration (
 - **Founder & CAIO** @ Paiva.gg — Independent consulting across mobile, distributed systems, and AI automation (2007–present)
 - **Founder & Technical Lead** @ Omnio.AE — AI-driven business automation with messaging platforms and LLM workflows
 - **Founder & CTO** @ SpareSpace.io — Marketplace platform architecture and engineering leadership
+- **Mobile & Biometrics Lead** — Built biometric identity and payment verification products in partnership with Fujitsu, serving banks, enterprise security, and a major Abu Dhabi brand
 - **Senior Solutions Architect** @ Monstarlab — Led architecture and delivery for real estate and government-backed mobile platforms in the UAE
 - **Head of Mobile** @ Salamantex — Built crypto payment solutions for POS and mobile clients from scratch, including blockchain-integrated Python backends
 - **Senior Software Engineer** @ Emirates — Led the Android Experience Team (9 engineers): indoor airport navigation, rich notifications, Kotlin migration
