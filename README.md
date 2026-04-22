@@ -84,6 +84,9 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=flat&logo=android&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-5C2D91?style=flat)
 
 **Tools & Workflow**  
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
@@ -197,6 +200,14 @@ Web development for award-winning advertising campaigns: Coca-Cola Happiness Ref
 ![TOGAF](https://img.shields.io/badge/TOGAF_10-Enterprise_Architecture-2B579A?style=flat)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Software_Engineer-00EA64?style=flat&logo=hackerrank&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Advanced-00EA64?style=flat&logo=hackerrank&logoColor=white)
+
+---
+
+## 📝 Articles
+
+- **[From User to Contributor in 8 Days: Fixing Concurrency Bugs in MemPalace](https://www.linkedin.com/pulse/from-user-contributor-8-days-fixing-concurrency-bugs-mempalace-paiva-eh53f/)** — Running an open-source AI memory system across 3 machines broke it in ways nobody had seen before. Diagnosed SQLite locking and ChromaDB cache thrashing, sent the fix upstream. *Apr 2026*
+
+- **[Well-Known Account Management: Why No One Has Done Something "Smarter"?](https://www.linkedin.com/in/felipepaiva/recent-activity/articles/)** — Exploring the W3C Well-Known URI standard and proposing a new protocol for smarter account management across platforms. *Aug 2025*
 
 ---
 
