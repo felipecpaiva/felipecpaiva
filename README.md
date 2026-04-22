@@ -129,6 +129,9 @@ Solution architecture and delivery for Live Aldar, a property management platfor
 **Teyaseer — Government Housing Platform** — *Monstarlab*  
 Solution architecture for Teyaseer, an Abu Dhabi government platform that guides UAE nationals through the entire journey of building their dream homes — from design and instant price quotation with full cost breakdowns for construction and bills in seconds, to contractor selection, construction oversight, and final key handover. Led the team from concept through delivery. Collaborated closely with the UAE Pass team to improve their React Native SDK, enabling seamless national digital identity integration across cross-platform mobile apps.
 
+**Banking Internal Systems — First Abu Dhabi Bank (FAB)** — *Monstarlab*  
+Supported the engineering team in improving internal systems for FAB, the largest bank in the UAE and one of the largest financial institutions in the Middle East.
+
 **Airline Loyalty Program & Airport Navigation** — *TribalScale / Emirates*  
 Rebuilt the Skywards loyalty section of the Emirates mobile app. Built indoor airport navigation (WayFinder), rich notifications for flight status, and led the Kotlin migration. Led the Android Experience Team (9 engineers).
 
@@ -182,7 +185,7 @@ Web development for award-winning advertising campaigns: Coca-Cola Happiness Ref
 - **Founder & Technical Lead** @ Omnio.AE — AI-driven business automation with messaging platforms and LLM workflows
 - **Founder & CTO** @ SpareSpace.io — Marketplace platform architecture and engineering leadership
 - **Mobile & Biometrics Lead** — Built biometric identity and payment verification products in partnership with Fujitsu, serving banks, enterprise security, and a major Abu Dhabi brand
-- **Senior Solutions Architect** @ Monstarlab — Led architecture and delivery for government and real estate platforms in the UAE (Teyaseer, Live Aldar), collaborated with the UAE Pass team on React Native SDK improvements
+- **Senior Solutions Architect** @ Monstarlab — Led architecture and delivery for government, real estate, and banking platforms in the UAE (Teyaseer, Live Aldar, FAB), collaborated with the UAE Pass team on React Native SDK improvements
 - **Head of Mobile** @ Salamantex — Built crypto payment solutions for POS and mobile clients from scratch, including blockchain-integrated Python backends
 - **Senior Software Engineer** @ Emirates — Led the Android Experience Team (9 engineers): indoor airport navigation, rich notifications, Kotlin migration
 - **Senior Android Developer** @ TribalScale — Digital transformation consulting in the MEA region, including a loyalty program rebuild for a major airline
