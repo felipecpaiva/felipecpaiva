@@ -83,6 +83,12 @@ Rebuilt the Skywards loyalty section of the Emirates mobile app. Built indoor ai
 **Enterprise Conference App** — *IBM*  
 Cross-platform conference and event app for IBM corporate events — speakers, presentations, live Q&A with moderator controls. iOS and Android.
 
+**Samsung Health** — *Samsung*  
+Contributed to Samsung's flagship health & fitness platform — activity tracking, workout management, sleep monitoring, and health records. 1B+ downloads worldwide.
+
+**Samsung Wallet (Samsung Pay)** — *Samsung*  
+Contributed to Samsung's mobile payments and digital wallet platform — contactless payments, card management, digital keys, and boarding passes. 100M+ downloads.
+
 **Video Streaming Platform** — *Samsung*  
 Consumer video streaming service (Moony) with content provider integrations, built for smartphones and tablets.
 
@@ -97,6 +103,9 @@ Android integration consulting for Drivvo — a vehicle expense tracking app cov
 
 **Citizen Journalism App** — *i2 Mobile Solutions*  
 Mobile platform (ComuniQ) for citizen reporting to the Jornal do Commercio media network — photos, video, audio, and text submissions across TV, radio, print, and digital outlets in Pernambuco, Brazil.
+
+**Major Digital Banking Platform** — *Consulting (3rd party)*  
+Contributed to a leading Latin American digital banking platform serving 100M+ customers across multiple countries — mobile app development through a consulting engagement.
 
 **Cannes Lions Award Campaigns** — *Ogilvy Interactive*  
 Web development for award-winning advertising campaigns: Coca-Cola Happiness Refill Machine, Kraft Foods "Prepare Drink Done", and JAC Motors "The 3239km Experience".
