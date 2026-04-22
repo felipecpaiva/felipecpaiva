@@ -123,11 +123,11 @@ AI-driven automation for service businesses — messaging platform integration (
 **Biometric Identity & Payments Platform**  
 Cross-platform biometric identity verification system using palm vein authentication, built in close partnership with Fujitsu — co-developing SDK features, debugging, and reviewing documentation. Products spanned kiosk self-service enrollment, bank-grade transaction verification, and high-security payment authentication. Flutter with clean architecture, native platform channels for biometric hardware, Arabic/English i18n, and Azure CI/CD pipelines. Deployed across hospitality, banking, and enterprise security in the UAE.
 
-**Real Estate Property Management App** — *Monstarlab*  
-Solution architecture and delivery for a property management platform serving real estate owners in the UAE. iOS and Android.
+**Live Aldar — Real Estate Property Management** — *Monstarlab*  
+Solution architecture and delivery for Live Aldar, a property management platform for real estate owners in the UAE. Integrated UAE Pass for secure national digital identity authentication. iOS and Android.
 
-**Government-Backed Digital Platform** — *Monstarlab*  
-Solution architecture for a government-backed digital services platform in the UAE. Led the team from initial concept through delivery.
+**Teyaseer — Government Housing Platform** — *Monstarlab*  
+Solution architecture for Teyaseer, an Abu Dhabi government platform that guides UAE nationals through the entire journey of building their dream homes — from design and instant price quotation with full cost breakdowns for construction and bills in seconds, to contractor selection, construction oversight, and final key handover. Led the team from concept through delivery. Collaborated closely with the UAE Pass team to improve their React Native SDK, enabling seamless national digital identity integration across cross-platform mobile apps.
 
 **Airline Loyalty Program & Airport Navigation** — *TribalScale / Emirates*  
 Rebuilt the Skywards loyalty section of the Emirates mobile app. Built indoor airport navigation (WayFinder), rich notifications for flight status, and led the Kotlin migration. Led the Android Experience Team (9 engineers).
@@ -182,7 +182,7 @@ Web development for award-winning advertising campaigns: Coca-Cola Happiness Ref
 - **Founder & Technical Lead** @ Omnio.AE — AI-driven business automation with messaging platforms and LLM workflows
 - **Founder & CTO** @ SpareSpace.io — Marketplace platform architecture and engineering leadership
 - **Mobile & Biometrics Lead** — Built biometric identity and payment verification products in partnership with Fujitsu, serving banks, enterprise security, and a major Abu Dhabi brand
-- **Senior Solutions Architect** @ Monstarlab — Led architecture and delivery for real estate and government-backed mobile platforms in the UAE
+- **Senior Solutions Architect** @ Monstarlab — Led architecture and delivery for government and real estate platforms in the UAE (Teyaseer, Live Aldar), collaborated with the UAE Pass team on React Native SDK improvements
 - **Head of Mobile** @ Salamantex — Built crypto payment solutions for POS and mobile clients from scratch, including blockchain-integrated Python backends
 - **Senior Software Engineer** @ Emirates — Led the Android Experience Team (9 engineers): indoor airport navigation, rich notifications, Kotlin migration
 - **Senior Android Developer** @ TribalScale — Digital transformation consulting in the MEA region, including a loyalty program rebuild for a major airline
