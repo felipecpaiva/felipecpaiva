@@ -3,7 +3,7 @@
 **Senior Software Engineer | Solutions Architect**  
 **AI Systems & Distributed Platforms | Mobile & Backend**
 
-Dubai, UAE · Brazilian 🇧🇷  
+Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷  
 19+ years building production systems across mobile, AI, and cloud — from startups to enterprises like Samsung, IBM, Emirates, and Fujitsu.
 
 ---
