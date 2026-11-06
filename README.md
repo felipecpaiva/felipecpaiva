@@ -14,7 +14,7 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ## 🔭 Right now
 
 - **At TribalScale:** I lead teams and technical decisions on client engagements, with AI-enabled delivery at the core: agentic engineering workflows, test and verification guardrails, delivery tooling, and AI-first discovery and scoping. Client details stay private.
-- **Client work through TribalScale:** engineering and technical leadership for Paramount (the 247Sports.com mobile app, and a decision-tracking agent for CBS Sports) and, for the last months, agentic engineering for Cellebrite: a development harness built for their teams, plus front-end and back-end development and support.
+- **Client work through TribalScale:** engineering and technical leadership for Paramount (the 247Sports.com mobile app, where ProofChain began, and a decision-tracking agent for CBS Sports) and, for the last months, agentic engineering for Cellebrite: a development harness built for their teams, plus front-end and back-end development and support.
 - **Open source around Omarchy and Hyprland:** plugins, fixes and research for the Omarchy Linux desktop (next section).
 - **A working harness for AI coding agents:** a phase-gated workflow with shared skills, hooks for the rules that must not depend on the model remembering them, persistent memory over MCP, and tests that have to fail when the code breaks.
 - **AI memory systems:** persistent memory for agents, running across several machines, with fixes contributed to the open-source MemPalace.
@@ -156,7 +156,8 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 - **AI memory and knowledge graph:** a "memory palace" for agents with semantic search, a temporal knowledge graph and MCP tools, across 15K+ memories.
 - **Automated trading system:** market data ingestion, AI-driven strategy generation, a backtesting engine and live execution (Python, FastAPI, TimescaleDB, Redis).
 - **Android RAW camera app:** natural, film-like images that bypass computational photography (Camera2, OpenGL ES, Jetpack Compose), in development.
-- **Verification platform and business automation:** automated code-quality analysis with CI integration, and LLM-driven automation for service businesses.
+- **ProofChain:** a verification platform that links Jira tickets to code coverage and grades how well each ticket is proven, with AI skills that find gaps and write tests and a watcher for pull requests and CI. It began as a coverage-analysis skill on the 247Sports app and was generalized at TribalScale (Next.js, TypeScript, Prisma, BullMQ, Redis, Docker).
+- **Business automation:** LLM-driven automation for service businesses with messaging platforms, scheduling and workflows.
 
 More, with the full history of past projects (mobile for Samsung, IBM and Emirates, government and banking platforms, biometric payments): **[paiva.gg](https://paiva.gg)**.
 
