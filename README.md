@@ -1,6 +1,6 @@
 # Hi, I'm Felipe 👋
 
-**Senior Software Engineer @ TribalScale | Solutions Architect**  
+**Technical Lead, AI Engineering & Solutions Architecture @ TribalScale**  
 **Agentic Engineering · AI Systems · Distributed Platforms · Mobile**
 
 Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷  
@@ -13,7 +13,7 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 
 ## 🔭 Right now
 
-- **At TribalScale:** AI-enabled delivery for client engagements. Agentic engineering workflows, test and verification guardrails, delivery tooling, and AI-first discovery and scoping. Client work stays private, so you will not find it here.
+- **At TribalScale:** I lead teams and technical decisions on client engagements, with AI-enabled delivery at the core: agentic engineering workflows, test and verification guardrails, delivery tooling, and AI-first discovery and scoping. Client work stays private, so you will not find it here.
 - **Open source around Omarchy and Hyprland:** plugins, fixes and research for the Omarchy Linux desktop (next section).
 - **A working harness for AI coding agents:** a phase-gated workflow with shared skills, hooks for the rules that must not depend on the model remembering them, persistent memory over MCP, and tests that have to fail when the code breaks.
 - **AI memory systems:** persistent memory for agents, running across several machines, with fixes contributed to the open-source MemPalace.
@@ -158,7 +158,7 @@ More, with the full history of past projects (mobile for Samsung, IBM and Emirat
 
 **19+ years** across mobile, backend, AI, and platform architecture:
 
-- **Senior Software Engineer** @ TribalScale (2025 to now): AI-enabled delivery for client engagements
+- **Technical Lead, AI Engineering & Solutions Architecture** @ TribalScale (2025 to now): leading teams and technical decisions, AI-enabled delivery for client engagements
 - **Founder & CAIO** @ Paiva.gg: independent consulting across mobile, distributed systems and AI automation
 - **Founder & Technical Lead** @ Omnio.AE: AI-driven business automation with messaging platforms and LLM workflows
 - **Founder & CTO** @ SpareSpace.io: marketplace platform architecture and engineering leadership
