@@ -14,6 +14,7 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ## 🔭 Right now
 
 - **At TribalScale:** I lead teams and technical decisions on client engagements, with AI-enabled delivery at the core: agentic engineering workflows, test and verification guardrails, delivery tooling, and AI-first discovery and scoping. Client work stays private, so you will not find it here.
+- **Client work through TribalScale:** engineering and technical leadership for Paramount (the 247Sports.com mobile app, and a decision-tracking agent for CBS Sports) and, for the last months, agentic engineering for Cellebrite: a development harness built for their teams, plus front-end and back-end development and support.
 - **Open source around Omarchy and Hyprland:** plugins, fixes and research for the Omarchy Linux desktop (next section).
 - **A working harness for AI coding agents:** a phase-gated workflow with shared skills, hooks for the rules that must not depend on the model remembering them, persistent memory over MCP, and tests that have to fail when the code breaks.
 - **AI memory systems:** persistent memory for agents, running across several machines, with fixes contributed to the open-source MemPalace.
@@ -48,6 +49,8 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat&logo=opengl&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Mobile Frameworks & SDKs**  
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
@@ -61,6 +64,8 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ![Room](https://img.shields.io/badge/Room-3DDC84?style=flat&logo=android&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat&logo=flutter&logoColor=white)
 ![OpenGL ES](https://img.shields.io/badge/OpenGL_ES-5586A4?style=flat&logo=opengl&logoColor=white)
+![Compose for TV](https://img.shields.io/badge/Compose_for_TV-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=flat&logo=expo&logoColor=white)
 
 **AI & Agentic Engineering**  
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
@@ -70,6 +75,9 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-6366F1?style=flat)
 ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-D4A574?style=flat)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-6366F1?style=flat)
+![DeepEval](https://img.shields.io/badge/DeepEval-7C3AED?style=flat)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
 **Linux Desktop**  
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
@@ -90,11 +98,15 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
 ![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js-8B5CF6?style=flat)
+![Alembic](https://img.shields.io/badge/Alembic-6B7280?style=flat)
 
 **Frontend & UI**  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -115,6 +127,7 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat)
 
 **Testing**  
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
@@ -123,12 +136,17 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=flat&logo=android&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro-5C2D91?style=flat)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white)
+![Cucumber %2F Gherkin](https://img.shields.io/badge/Cucumber_%2F_Gherkin-23D96C?style=flat&logo=cucumber&logoColor=white)
 
 **Tools & Workflow**  
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat)
+![OpenCode](https://img.shields.io/badge/OpenCode-1F2937?style=flat)
 
 ---
 
@@ -158,7 +176,7 @@ More, with the full history of past projects (mobile for Samsung, IBM and Emirat
 
 **19+ years** across mobile, backend, AI, and platform architecture:
 
-- **Technical Lead, AI Engineering & Solutions Architecture** @ TribalScale (2025 to now): leading teams and technical decisions, AI-enabled delivery for client engagements
+- **Technical Lead, AI Engineering & Solutions Architecture** @ TribalScale (2025 to now): leading teams and technical decisions, AI-enabled delivery for client engagements (Paramount: 247Sports and CBS Sports; Cellebrite)
 - **Founder & CAIO** @ Paiva.gg: independent consulting across mobile, distributed systems and AI automation
 - **Founder & Technical Lead** @ Omnio.AE: AI-driven business automation with messaging platforms and LLM workflows
 - **Founder & CTO** @ SpareSpace.io: marketplace platform architecture and engineering leadership
