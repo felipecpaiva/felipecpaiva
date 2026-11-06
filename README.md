@@ -13,7 +13,7 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 
 ## 🔭 Right now
 
-- **At TribalScale:** I lead teams and technical decisions on client engagements, with AI-enabled delivery at the core: agentic engineering workflows, test and verification guardrails, delivery tooling, and AI-first discovery and scoping. Client work stays private, so you will not find it here.
+- **At TribalScale:** I lead teams and technical decisions on client engagements, with AI-enabled delivery at the core: agentic engineering workflows, test and verification guardrails, delivery tooling, and AI-first discovery and scoping. Client details stay private.
 - **Client work through TribalScale:** engineering and technical leadership for Paramount (the 247Sports.com mobile app, and a decision-tracking agent for CBS Sports) and, for the last months, agentic engineering for Cellebrite: a development harness built for their teams, plus front-end and back-end development and support.
 - **Open source around Omarchy and Hyprland:** plugins, fixes and research for the Omarchy Linux desktop (next section).
 - **A working harness for AI coding agents:** a phase-gated workflow with shared skills, hooks for the rules that must not depend on the model remembering them, persistent memory over MCP, and tests that have to fail when the code breaks.
