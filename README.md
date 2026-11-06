@@ -147,6 +147,11 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat)
 ![OpenCode](https://img.shields.io/badge/OpenCode-1F2937?style=flat)
+![Pi coding agent](https://img.shields.io/badge/Pi_coding_agent-111827?style=flat)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat)
+![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?style=flat)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 ---
 
