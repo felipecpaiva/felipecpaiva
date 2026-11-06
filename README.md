@@ -16,7 +16,7 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 - **At TribalScale:** AI-enabled delivery for client engagements. Agentic engineering workflows, test and verification guardrails, delivery tooling, and AI-first discovery and scoping. Client work stays private, so you will not find it here.
 - **Open source around Omarchy and Hyprland:** plugins, fixes and research for the Omarchy Linux desktop (next section).
 - **A working harness for AI coding agents:** a phase-gated workflow with shared skills, hooks for the rules that must not depend on the model remembering them, persistent memory over MCP, and tests that have to fail when the code breaks.
-- **AI memory systems:** persistent memory for agents, running across several machines.
+- **AI memory systems:** persistent memory for agents, running across several machines, with fixes contributed to the open-source MemPalace.
 
 ---
 
@@ -31,6 +31,7 @@ Currently in Dubai, UAE 🇦🇪 · From Recife, Brazil 🇧🇷
 | [OmaBar Configurator](https://github.com/felipecpaiva/OmaBarConfigurator) | Show and hide Omarchy bar widgets from one panel | Listed in the Omarchy plugin marketplace |
 | [omarchy-hyprland-titlebars](https://github.com/omacom/omarchy-hyprland-titlebars/pull/7) | Build fix for Omarchy's floating-workspace titlebars plugin against Hyprland 0.57 | Merged upstream |
 | [slot](https://github.com/BrandonKowalski/slot) and [slot-nes-snes](https://github.com/felipecpaiva/slot-nes-snes) | More systems for a Game Boy-centric handheld firmware, plus a boot-time fix | Fix adopted upstream with co-author credit |
+| [MemPalace](https://github.com/MemPalace/mempalace) | Multi-process safety fixes for the knowledge graph and MCP server of an open-source AI memory system | [Write-up: From User to Contributor in 8 Days](https://www.linkedin.com/pulse/from-user-contributor-8-days-fixing-concurrency-bugs-mempalace-paiva-eh53f/) |
 | [omarchy-z13](https://github.com/felipecpaiva/omarchy-z13) | Research and plan for touch and tablet use of Omarchy on the ASUS ROG Flow Z13 | Public notes |
 
 ---
